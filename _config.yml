@@ -83,7 +83,7 @@ author:
   name             : "Mingyue Yuan"
   avatar           : "myprofile.jpg"
   bio              : "Senior Algorithm Engineer/<br>Face recognition/Person ReID/\nGesture recognition/\nAction recognition/\nGenerate art"
-  location         : "Beijing"
+  location         : "Baidu/Beijing"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
@@ -176,16 +176,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
