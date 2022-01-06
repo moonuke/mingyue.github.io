@@ -83,8 +83,8 @@ author:
   name             : "Mingyue Yuan"
   avatar           : "myprofile.jpg"
   bio              : "Senior Algorithm Engineer/<br>Face recognition/Person ReID/\nGesture recognition/\nAction recognition/\nGenerate art"
-  location         : "Beijing"
-  employer         : "Baidu"
+  location         : "Baidu/Beijing"
+  employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "moonuke@mail.ustc.edu.cn"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "Mingyue50921158"
   vine             :
   weibo            :
   xing             :
