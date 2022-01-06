@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mingyue Yuan"
   avatar           : "myprofile.jpg"
-  bio              : "Senior Algorithm Engineer/\nFace recognition/\nGesture recognition/\nAction recognition/\nGenerate art"
+  bio              : "Senior Algorithm Engineer/<br>Face recognition/Person REID/\nGesture recognition/\nAction recognition/\nGenerate art"
   location         : "Beijing"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
