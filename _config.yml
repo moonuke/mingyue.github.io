@@ -83,11 +83,11 @@ author:
   name             : "Mingyue Yuan"
   avatar           : "myprofile.jpg"
   bio              : "Senior Algorithm Engineer/<br>Face recognition/Person ReID/\nGesture recognition/\nAction recognition/\nGenerate art"
-  location         : "Baidu/Beijing"
-  employer         :
+  location         : "Beijing"
+  employer         : "Baidu"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "moonuke@mail.ustc.edu.cn"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
