@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Algorithm Engineer at (DuerOS)[https://dueros.baidu.com/] of (Baidu Group)[https://www.baidu.com/]. I obtained my B.S. in information and communication engineering from the University of Science and Technology of China (USTC) in 2019 and bachelor degree in communication engineering from the Wuhan University of Technology(WHUT) in 2016.
+I am a Senior Algorithm Engineer at [DuerOS](https://dueros.baidu.com/) of [Baidu Group](https://www.baidu.com/). I obtained my B.S. in information and communication engineering from the University of Science and Technology of China (USTC) in 2019 and B.Sc. in communication engineering from the Wuhan University of Technology(WHUT) in 2016.
 
 I have broad interests in computer vision and AI. My current major work topics are about: 
 * Person ReID
@@ -32,3 +32,6 @@ Generative art
 Face recognition, Landmark, Face Image Quality(FQA), Face Attribute(Age, Gender, e.g.)
 
 Person ReID
+
+Selected awards and Publications
+======
