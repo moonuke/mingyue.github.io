@@ -26,9 +26,9 @@ I am always being committed to friendly and pervasively integrating AI technolog
 Recently, I have pivoted to the intersection of Art and AI, aiming to facilitate human-AI collaborative applications for creative and design needs. Specifically, after laying enough groundwork, combining "bottom-up" engineering thinking and "top-down" design thinking, my vision for the future Art+AI includes:
 
 
-* 1. From the perspective of technique,improving algorithms performance and reducing barriers to art and creativity.
-* 2. From the perspective of application, leveraging AI-based technology as an engine, and building new tools to engage with human.
-* 3. From the perspective of artistic expression, exploring new art and combinations: ideally serving to educate and inspire people with regards to the beauty of art.
+* From the perspective of technique,improving algorithms performance and reducing barriers to art and creativity.
+* From the perspective of application, leveraging AI-based technology as an engine, and building new tools to engage with human.
+* From the perspective of artistic expression, exploring new art and combinations: ideally serving to educate and inspire people with regards to the beauty of art.
 
 
 
@@ -50,7 +50,7 @@ Face generation animation project is an advanced combination of current AR face 
 ### Gesture Recognition
 Gesture recognition is a computing process that attempts to recognize and interpret human gestures through the use of machine learning algorithms. Our gesture recognition technology that is vision based uses a camera or 2D hand keypoints to track user movements and translate them in real time. Gesture recognition is an important interface for next-generation interactive control.
 <div align='center'>
-  <img src='/images/gesture.gif'>
+  <img src='https://github.com/moonuke/mingyue.github.io/raw/master/images/action.gif'>
 </div>
 
 
