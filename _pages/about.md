@@ -17,7 +17,7 @@ I have extensive and professional experiences in AI development and implementati
 * Action recognition (Skeleton-based) 
 * Generative art
 
-
+---
 
 I am passionate about AI and technology. As an AI-feature owner in company, I have successfully used it to solve many difficult practical problems. Furthermore, I have enabled tens of millions of intelligent IoT devices, including smart screens, smart tablets, fitness mirrors and smart TVs. My pleasure is to better assist, enhance, protect and entertain users lives through cutting-edge AI technologies in Baidu. [video](https://www.youtube.com/watch?v=MvWIDdO0Hmo)
 
@@ -28,14 +28,14 @@ I think the following characteristics of mine have played a very positive role i
 * Having a forward-looking vision: utilizing cutting-edge algorithms for products from the user's point of view.
 * Thinking independently and solving difficulties in business: finding badcases in practical problems and optimizing them.
 
-
+---
 
 My future research interest lies in combining artificial intelligence and creativity in the arts. Appropriately, I believe that my extensive research and specialized engineering capabilities can help a lot, and it will serve as a solid foundation and a powerful engine for my cutting-edge researches in this new field. Definitely, I am really looking forward to contribute to the following three impacts in the future: 
 * From technical perspective, Making better and more pervasive AI-technologies for the public: improving algorithms performance and reducing barriers to art and creativity.
 * For better application, Using AI-technology as an engine, building new tools to engage with human.
 * For the sake of innovating the form of artistic expression，Exploring new art and combinations: ideally serving to educate and inspire people with regards to the beauty of art.
 
-
+---
 
 Projects and Research
 ======
