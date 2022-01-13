@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Senior Algorithm Engineer at [DuerOS](https://dueros.baidu.com/) of [Baidu Company](https://en.wikipedia.org/wiki/Baidu). I obtained my B.S. in information and communication engineering from the [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/) in 2019 and B.Sc. in communication engineering from the [Wuhan University of Technology (WHUT)](http://english.whut.edu.cn/) in 2016.
 
-With professional experience in the development and optimization of Artificial Intelligence (AI), especiallhy Computer Vision (CV), I am currently working on topics including: 
+With professional experience in the development and optimization of Artificial Intelligence (AI), especially Computer Vision (CV), I am currently working on topics including: 
 * Person Re-ID (Re-Idification)
 * Face Recognition, Landmark, Face Image Quality (FQA), Face Attributes (Age, Gender, etc.)
 * Gesture Recognition (Image-based and Skeleton-based) 
