@@ -8,32 +8,29 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Algorithm Engineer at [DuerOS](https://dueros.baidu.com/) of [Baidu Group](https://www.baidu.com/). I obtained my B.S. in information and communication engineering from the University of Science and Technology of China (USTC) in 2019 and B.Sc. in communication engineering from the Wuhan University of Technology (WHUT) in 2016.
+I am a Senior Algorithm Engineer at [DuerOS](https://dueros.baidu.com/) of [Baidu Company](https://en.wikipedia.org/wiki/Baidu). I obtained my B.S. in information and communication engineering from the [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/) in 2019 and B.Sc. in communication engineering from the [Wuhan University of Technology (WHUT)](http://english.whut.edu.cn/) in 2016.
 
-I have extensive and professional experiences in AI development and implementation, and my current major work topics in computer vision and AI are about: 
-* Person re-identification
-* Face recognition, landmark, Face image quality (FQA), Face attributes (Age, Gender, e.g.)
-* Gesture recognition (Image-based and Skeleton-based) 
-* Action recognition (Skeleton-based) 
-* Generative art
+With professional experience in the development and optimization of Artificial Intelligence (AI), especiallhy Computer Vision (CV), I am currently working on topics including: 
+* Person Re-ID (Re-Idification)
+* Face Recognition, Landmark, Face Image Quality (FQA), Face Attributes (Age, Gender, etc.)
+* Gesture Recognition (Image-based and Skeleton-based) 
+* Action Recognition (Skeleton-based) 
+* Generative Art
 
----
+-------------------------My Vision---------------------------------
 
-I am passionate about AI and technology. As an AI-feature owner in company, I have successfully used it to solve many difficult practical problems. Furthermore, I have enabled tens of millions of intelligent IoT devices, including smart screens, smart tablets, fitness mirrors and smart TVs. My pleasure is to better assist, enhance, protect and entertain users lives through cutting-edge AI technologies in Baidu. [video](https://www.youtube.com/watch?v=MvWIDdO0Hmo)
 
-I think the following characteristics of mine have played a very positive role in the process of commercializing the algorithms:
-* Having good development habits: establishing a standardized R&D process system within our group, and improving the efficiency of the engineering.
-* Having solid coding ability: establishing and maintaining the code structure of all the AI-algorithms in the group, and productize them with SDK.
-* Having professional basic algorithm skills, improving algorithms performance with various ablation experiments.
-* Having a forward-looking vision: utilizing cutting-edge algorithms for products from the user's point of view.
-* Thinking independently and solving difficulties in business: finding badcases in practical problems and optimizing them.
+I am always being committed to friendly and pervasively integrating AI technology into people's daily life. For instance, in Baidu, I have successfully promoted in assisting, enhancing, protecting and entertaining users lives through cutting-edge AI technologies, through enabling tens of millions of intelligent Internet of Things (IoT) devices, such as smart screens, smart tablets, fitness mirrors and smart TVs. [video](https://www.youtube.com/watch?v=MvWIDdO0Hmo)
 
 ---
 
-My future research interest lies in combining artificial intelligence and creativity in the arts. Appropriately, I believe that my extensive research and specialized engineering capabilities can help a lot, and it will serve as a solid foundation and a powerful engine for my cutting-edge researches in this new field. Definitely, I am really looking forward to contribute to the following three impacts in the future: 
-* From technical perspective, Making better and more pervasive AI-technologies for the public: improving algorithms performance and reducing barriers to art and creativity.
-* For better application, Using AI-technology as an engine, building new tools to engage with human.
-* For the sake of innovating the form of artistic expression，Exploring new art and combinations: ideally serving to educate and inspire people with regards to the beauty of art.
+Recently, I have pivoted to the intersection of Art and AI, aiming to facilitate human-AI collaborative applications for creative and design needs. Specifically, after laying enough groundwork, combining "bottom-up" engineering thinking and "top-down" design thinking, my vision for the future Art+AI includes:
+
+
+* 1. From the perspective of technique,improving algorithms performance and reducing barriers to art and creativity.
+* 2. From the perspective of application, leveraging AI-based technology as an engine, and building new tools to engage with human.
+* 3. From the perspective of artistic expression, exploring new art and combinations: ideally serving to educate and inspire people with regards to the beauty of art.
+
 
 ---
 
