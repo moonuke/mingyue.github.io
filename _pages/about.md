@@ -17,12 +17,11 @@ With professional experience in the development and optimization of Artificial I
 * Action Recognition (Skeleton-based) 
 * Generative Art
 
--------------------------My Vision---------------------------------
-
+My Vision
+======
 
 I am always being committed to friendly and pervasively integrating AI technology into people's daily life. For instance, in Baidu, I have successfully promoted in assisting, enhancing, protecting and entertaining users lives through cutting-edge AI technologies, through enabling tens of millions of intelligent Internet of Things (IoT) devices, such as smart screens, smart tablets, fitness mirrors and smart TVs. [video](https://www.youtube.com/watch?v=MvWIDdO0Hmo)
 
----
 
 Recently, I have pivoted to the intersection of Art and AI, aiming to facilitate human-AI collaborative applications for creative and design needs. Specifically, after laying enough groundwork, combining "bottom-up" engineering thinking and "top-down" design thinking, my vision for the future Art+AI includes:
 
@@ -32,7 +31,6 @@ Recently, I have pivoted to the intersection of Art and AI, aiming to facilitate
 * 3. From the perspective of artistic expression, exploring new art and combinations: ideally serving to educate and inspire people with regards to the beauty of art.
 
 
----
 
 Projects and Research
 ======
