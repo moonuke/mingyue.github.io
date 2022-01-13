@@ -69,6 +69,6 @@ Action recognition project is based on 2D skeleton representations of human bodi
 ### Human Body Analysis: Person Re-identification
 Person re-identification(ReID) is the task of associating images of the same person taken from different cameras or from the same camera in different occasions. Our algorithm has provided support for photo album clustering and criminal investigation trajectory analysis. In the future, it can also provide AI power for the realization of the tracking of people and things in the “Metaverse”.
 <div align='center'>
-  <img src='/images/action.gif'>
+  <img src='/images/bio-photo.jpg'>
 </div>
 
