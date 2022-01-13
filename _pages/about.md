@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Algorithm Engineer at [DuerOS](https://dueros.baidu.com/) of [Baidu Company](https://en.wikipedia.org/wiki/Baidu). I obtained my B.S. in information and communication engineering from the [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/) in 2019 and B.Sc. in communication engineering from the [Wuhan University of Technology (WHUT)](http://english.whut.edu.cn/) in 2016.
+I am a Senior Algorithm Engineer at [DuerOS](https://dueros.baidu.com/en/index.html) of [Baidu Company](https://en.wikipedia.org/wiki/Baidu). I obtained my B.S. in information and communication engineering from the [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/) in 2019 and B.Sc. in communication engineering from the [Wuhan University of Technology (WHUT)](http://english.whut.edu.cn/) in 2016.
 
 With professional experience in the development and optimization of Artificial Intelligence (AI), especially Computer Vision (CV), I am currently working on topics including: 
 * Person Re-ID (Re-Idification)
-* Face Recognition, Landmark, Face Image Quality (FQA), Face Attributes (Age, Gender, etc.)
+* Face Recognition, Landmark, Face Quality Assessment(FQA), Face Attributes (Age, Gender, etc.)
 * Gesture Recognition (Image-based and Skeleton-based) 
 * Action Recognition (Skeleton-based) 
 * Generative Art
@@ -35,13 +35,13 @@ Recently, I have pivoted to the intersection of Art and AI, aiming to facilitate
 Projects and Research
 ======
 ### FaceID 
-FaceID project include face recognition, landmark, face quality (FQA), face attributes(age, gender, e.g.) technologies. Applied to the product, those lightweight and high-performance models run on Android devices in real time and provide support for child protection, personal privacy protection, elderly assistance, face payment, security monitoring and entertainment effects for users.
+FaceID project include face recognition, landmark, FQA, face attributes(age, gender, e.g.) technologies. Applied to the product, those lightweight and high-performance models run on Android devices in real time and provide support for child protection, personal privacy protection, elderly assistance, face payment, security monitoring and entertainment effects for users.
 <div align='center'>
   <img src='https://github.com/moonuke/mingyue.github.io/raw/master/images/FaceID.png'>
 </div>
 
 ### Face Generation Animation
-Face generation animation project is an advanced combination of current AR face technologies. First, this feature detects and tracks facial expressions, then based on the joint effect of real faces and generated 2.5D anime faces, this application allowing users to simulate animation images in real time.
+Face generation animation project is an advanced combination of current AR face technologies. Based on the joint effect of real faces and generated 2.5D anime faces, this application allowing users to simulate animation images in real time.
 <div align='center'>
   <img src='https://github.com/moonuke/mingyue.github.io/raw/master/images/animation.gif'>
 </div>
@@ -55,7 +55,7 @@ Gesture recognition is a computing process that attempts to recognize and interp
 
 
 ### Action Recognition
-Action recognition project is based on 2D skeleton representations of human bodies. First, it recognizes the motor behavior of users, then analyzes the correctness of the exercise, eventually provides fitness and dance advice on our AI fitness mirror.
+Action recognition project is based on 2D key bone points representations of the human body, which can provides precise analysis of a user’s physical movements during various exercises on our smart fitness mirror.
 <div align='center'>
   <img src='https://github.com/moonuke/mingyue.github.io/raw/master/images/action.gif'>
 </div>
