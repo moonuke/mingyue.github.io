@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mingyue Yuan"
   avatar           : "myprogif.gif"
-  bio              : "Senior Algorithm Engineer/<br>Face recognition/Person ReID/\nGesture recognition/\nAction recognition/\nGenerate art"
+  bio              : "Senior Research&Develop Engineer Engineer/<br>Multimodal Human Behaviour Analytics/\nHuman-AI Interaction/AI Explainability"
   location         : "Baidu/Beijing"
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "moonuke"
+  github           : # "moonuke"
   google_plus      :
   keybase          :
   instagram        :
