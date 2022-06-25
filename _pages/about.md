@@ -11,6 +11,9 @@ redirect_from:
 I am a Senior Research&Develop Engineer at [DuerOS](https://dueros.baidu.com/en/index.html) of [Baidu Company](https://en.wikipedia.org/wiki/Baidu). I obtained my B.S. in information and communication engineering from the [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/) in 2019 and B.Sc. in communication engineering from the [Wuhan University of Technology (WHUT)](http://english.whut.edu.cn/) in 2016.
 
 With professional experience in the development and optimization of Artificial Intelligence (AI) in products, especially Computer Vision (CV), and my research interests are multimodal human behaviour analytics, human-AI interaction and AI explainability.
+
+
+
 My Vision
 ======
 
